@@ -27,7 +27,14 @@ I’m a self-taught developer who enjoys working with the latest technologies in
 
 ### 💼 Experience
 
-- **Full-stack Developer** – *Pageone247* (3 years)
+- **Full-stack Developer** – *MarketDragon* (current)
+  - Maintained and modularized a large Laravel codebase to improve scalability, maintainability, and performance.
+  - Enhanced system reliability by introducing structured coding practices, optimized queries, and efficient API design.
+  - Contributed to team knowledge sharing by creating reusable components in both Laravel and Vue.js for faster development cycles.
+  - Collaborated closely with a cross-functional team to streamline workflows, ensuring smooth integration between frontend and backend systems.
+  - Implemented OpenAI-powered features to enhance automation and user interactions within the platform.
+    
+- **Full-stack Developer** – *Infosoft Studio* (3 years)
   - Specializing in Laravel and Vue.js applications
   - Building dynamic, responsive UIs with Vue 3 and Tailwind CSS
   - Implementing robust backend services using Laravel and MySQL/PostgreSQL
