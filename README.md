@@ -1,81 +1,53 @@
-## Hi there, I'm Alan 👋
+## Hey, I'm Alan 👋
 
-Welcome to my GitHub profile!  
-I'm a **Full-Stack Web Developer** with over **3 years of experience**, specializing in **Laravel**, **Vue.js**, **Tailwind CSS**, and **WordPress**.  
-I’m passionate about building clean, scalable, and high-performance web applications from crafting backend logic to creating beautiful and responsive frontends.
+Full-Stack Web Developer from the Philippines. I build web applications with **Laravel**, **Vue.js**, **Nuxt.js**, and **WordPress**.
 
----
-
-### 👨‍💻 About Me
-
-I’m a **self-taught developer** who loves exploring new technologies and improving existing workflows.  
-My focus lies in bridging the gap between **backend and frontend** development using modern stacks like **Laravel**, **Vue.js**, and **Inertia.js**.
-
-- 🌱 Currently improving my skills in **Laravel**, **Vue 3**, and **Inertia.js** while learning **mobile development** using **React Native**.  
-- 💬 Ask me about **PHP**, **Laravel**, **Vue.js**, **Tailwind CSS**, **WordPress**, or anything full-stack related.  
-- 🔧 Experienced in modifying **WordPress themes and plugins**, writing custom functions, and integrating new features that extend WordPress capabilities.
-- 😄 Pronouns: He/Him  
+[![Portfolio](https://img.shields.io/badge/Portfolio-mrcz8.github.io-000?style=for-the-badge&logo=github)](https://mrcz8.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-marcvarron-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marcvarron/)
+[![Email](https://img.shields.io/badge/Email-marcvarron8@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcvarron8@gmail.com)
 
 ---
 
-### 🛠️ Skills
+### 🛠️ Tech Stack
 
-**Languages:**  
-PHP, JavaScript, HTML, CSS  
-
-**Frameworks & Libraries:**  
-Laravel, Vue.js, Nuxt.js, Inertia.js, Tailwind CSS, React Native  
-
-**Platforms & CMS:**  
-WordPress (Theme & Plugin Development, Custom Hooks, REST API Integration)  
-
-**Tools & DevOps:**  
-Docker, Nginx, Git, Composer 
-
-**Databases:**  
-MySQL, PostgreSQL  
-
-**Others:**  
-RESTful APIs, Laravel Sanctum, Authentication Systems, Cloud Services (AWS, DigitalOcean), Performance Optimization  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-### 💼 Experience
+### 📊 GitHub Stats
 
-#### **Full-Stack Developer – MarketDragon** *(Current)*
-- Maintained and modularized a large **Laravel** codebase for scalability and long-term maintainability.  
-- Improved system reliability through optimized queries, caching strategies, and efficient API design.  
-- Created reusable **Vue.js** and **Inertia.js** components to streamline frontend development.  
-- Worked closely with product teams to deliver seamless integration between backend and frontend layers.  
-- Integrated **AI-powered automation** features using **OpenAI APIs**.  
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=mrcz8&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrcz8&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+</p>
 
-#### **Full-Stack Developer – Infosoft Studio** *(3 Years)*
-- Developed and maintained full-stack applications using **Laravel**, **Vue 3**, and **Tailwind CSS**.  
-- Integrated third-party APIs like payment gateways, OAuth authentication, and messaging services.  
-- Implemented **Inertia.js** to simplify frontend routing and data sharing across Laravel and Vue.  
-- Focused on application security, scalability, and performance optimization.  
-
-#### **Web Application Developer – Freelance (ConnIct)**
-- Built custom web applications for clients from different industries, ensuring usability and scalability.  
-- Collaborated directly with clients to design, develop, and deliver efficient solutions.  
-- Enhanced app performance by optimizing rendering and backend request handling.  
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrcz8&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
-### 🌐 Projects & Focus
+### 👨‍💻 What I Do
 
-- ⚙️ **Full Laravel + Inertia.js Stack** – Building robust SPAs with modern Laravel architecture.
-- 🧩 **Custom WordPress Plugin Development** – Extending plugin functionality and integrating REST APIs.  
-- 🧱 **Reusable UI Components** – Designing scalable Vue and Tailwind-based components for faster prototyping.  
-
----
-
-### 📫 Contact Me
-
-- 📧 **Email:** [marcvarron8@gmail.com](mailto:marcvarron8@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/marcvarron](https://www.linkedin.com/in/marcvarron/)  
-- 🌐 **Portfolio:** [mrcz8.github.io](https://mrcz8.github.io/)  
+- Build full-stack web applications with **Laravel** + **Vue.js/Nuxt.js**
+- Design and integrate **RESTful APIs** and third-party services
+- Develop custom **WordPress** themes, plugins, and integrations
+- Deploy and manage apps with **Docker**, **Nginx**, and cloud platforms
 
 ---
 
-⭐ *“Code is not just about solving problems — it’s about creating experiences that make people’s lives easier.”*  
+*Open to freelance work and collaborations — [reach out!](mailto:marcvarron8@gmail.com)*
